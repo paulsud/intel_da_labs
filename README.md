@@ -2,8 +2,8 @@
 
 datasets taken from
 
-lab2
+Lab2
 https://www.kaggle.com/shivam1901/pulsar-star
 
-lab3
+Lab3
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
